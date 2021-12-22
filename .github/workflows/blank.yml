@@ -1,0 +1,15 @@
+<!DOCTYPE htm//boiler-plate_lhttps://www.freecodecamp.org/news/basic-html5-template-boilerplate-code-example-class boilerplate/>
+<html lang="en">
+<title>Spiros's Page<title/>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HTML 5 Boilerplate</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+	<script src="index.js"></script>
+  </body>
+</html>
+
